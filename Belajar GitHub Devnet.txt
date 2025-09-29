@@ -1,4 +1,4 @@
 tahapan belajar GitHub:
 1. Belajar Repo
 2. Belajar Commit
-3. Belajar Config
+4. Belajar cloud
